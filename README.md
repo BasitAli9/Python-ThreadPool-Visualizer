@@ -81,9 +81,6 @@ This project improved my understanding of:
 - Real-Time System Monitoring
 - Task Scheduling Algorithms
 
----
-
-
 
 ---
 
