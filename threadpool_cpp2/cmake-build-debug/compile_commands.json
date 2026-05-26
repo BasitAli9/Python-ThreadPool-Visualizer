@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/BASIT ALI/Desktop/threadpool_cpp2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/BASIT ALI/Desktop/threadpool_cpp2/include\" -g -std=gnu++17 -fdiagnostics-color=always -Wall -Wextra -O2 -o CMakeFiles\\ThreadPoolServer.dir\\src\\main.cpp.obj -c \"C:\\Users\\BASIT ALI\\Desktop\\threadpool_cpp2\\src\\main.cpp\"",
+  "file": "C:/Users/BASIT ALI/Desktop/threadpool_cpp2/src/main.cpp",
+  "output": "C:/Users/BASIT ALI/Desktop/threadpool_cpp2/cmake-build-debug/CMakeFiles/ThreadPoolServer.dir/src/main.cpp.obj"
+}
+]
